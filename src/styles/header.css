@@ -1,6 +1,15 @@
 .header {
     font-family: 'Chakra Petch', sans-serif;
-    width: 1000px;
-    padding: 100px 0 0 50px;
+    margin: 100px 0 0 50px;
+    position: relative;
+    z-index: 9999;
+}
 
+.sub-header {
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 0 0 100px 50px;
+    position: relative;
+    z-index: 9999;
 }
